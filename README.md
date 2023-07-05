@@ -1,8 +1,7 @@
 # Web-Scrapper
-here src folder has scrapper.py and youtube_scrapper.py 
-where scrapper.py is able to scarp all the pages youtube links present in the provided link also you can check the demo in the video llink provided 
+### here src folder has scrapper.py and youtube_scrapper.py where scrapper.py is able to scarp all the pages youtube links present in the provided assigment also you can check the demo in the video link provided 
 
-and youtube_scrapper is able to scrap 10000 youtube links which are from the different sources which includes openinapp
+### and youtube_scrapper is able to scrap 10000 youtube links which are from the different sources which includes openinapp
 
 
 ### run the following commands
